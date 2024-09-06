@@ -1,0 +1,544 @@
+24-07-25.12:25:10.256 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 73663 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.12:25:10.259 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.12:25:14.557 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.12:25:14.566 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.12:25:14.669 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 46 ms. Found 0 Redis repository interfaces.
+24-07-25.12:25:19.121 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.12:25:19.323 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.12:25:19.945 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.12:25:19.996 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.12:25:23.767 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.12:25:24.020 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 16.163 seconds (JVM running for 24.647)
+24-07-25.12:25:25.717 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-25.12:25:27.039 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-25.12:25:27.642 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-25.12:25:27.705 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-25.12:32:03.480 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 73779 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.12:32:03.483 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.12:32:06.013 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.12:32:06.022 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.12:32:06.084 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25 ms. Found 0 Redis repository interfaces.
+24-07-25.12:32:08.467 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.12:32:08.637 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.12:32:09.298 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.12:32:09.366 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.12:32:15.882 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.12:32:16.228 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 14.349 seconds (JVM running for 20.434)
+24-07-25.12:32:17.790 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-25.12:32:18.606 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-25.12:32:18.775 [main            ] INFO  StrategyArmoryTest     - 测试结果：true - 是否装配成功
+24-07-25.12:32:18.904 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-25.12:32:18.940 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-25.13:00:52.934 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 74073 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.13:00:52.938 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.13:00:55.601 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.13:00:55.610 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.13:00:55.686 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 29 ms. Found 0 Redis repository interfaces.
+24-07-25.13:00:58.481 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.13:00:58.656 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.13:00:59.264 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:00:59.347 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:01:03.388 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.13:01:03.555 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 12.305 seconds (JVM running for 16.872)
+24-07-25.13:01:05.113 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-25.13:01:05.944 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-25.13:01:06.350 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-25.13:01:06.379 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-25.13:01:45.240 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 74090 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.13:01:45.243 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.13:01:47.831 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.13:01:47.837 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.13:01:47.895 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 23 ms. Found 0 Redis repository interfaces.
+24-07-25.13:01:50.814 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.13:01:51.016 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.13:01:51.819 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:01:51.889 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:01:55.090 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.13:01:55.204 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 11.699 seconds (JVM running for 17.184)
+24-07-25.13:03:20.692 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 74110 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.13:03:20.698 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.13:03:23.250 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.13:03:23.256 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.13:03:23.332 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 36 ms. Found 0 Redis repository interfaces.
+24-07-25.13:03:28.613 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.13:03:28.940 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.13:03:30.252 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:03:30.325 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:04:51.783 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.13:04:51.928 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 92.569 seconds (JVM running for 97.907)
+24-07-25.13:05:03.112 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 74135 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.13:05:03.116 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.13:05:05.524 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.13:05:05.534 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.13:05:05.598 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24 ms. Found 0 Redis repository interfaces.
+24-07-25.13:05:53.724 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.13:05:54.317 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.13:05:55.887 [redisson-netty-1-12] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:05:55.888 [redisson-netty-1-13] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:06:02.399 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.13:06:02.566 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 61.18 seconds (JVM running for 66.446)
+24-07-25.13:06:11.935 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 74152 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.13:06:11.941 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.13:06:14.268 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.13:06:14.275 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.13:06:14.342 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24 ms. Found 0 Redis repository interfaces.
+24-07-25.13:07:25.428 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.13:07:30.159 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.13:07:50.808 [redisson-netty-1-6] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:07:51.868 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:08:18.425 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 74187 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.13:08:18.439 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.13:08:21.126 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.13:08:21.135 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.13:08:21.219 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 37 ms. Found 0 Redis repository interfaces.
+24-07-25.13:08:24.791 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.13:08:25.045 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.13:08:25.692 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:08:25.778 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:08:30.308 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.13:08:30.490 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 14.018 seconds (JVM running for 19.455)
+24-07-25.13:11:43.591 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 74227 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.13:11:43.595 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.13:11:46.285 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.13:11:46.292 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.13:11:46.373 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 41 ms. Found 0 Redis repository interfaces.
+24-07-25.13:11:49.397 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.13:11:49.583 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.13:11:50.319 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:11:50.378 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:11:54.196 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.13:11:54.366 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 11.948 seconds (JVM running for 17.511)
+24-07-25.13:26:33.644 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 74439 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.13:26:33.649 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.13:26:35.805 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.13:26:35.811 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.13:26:35.888 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 34 ms. Found 0 Redis repository interfaces.
+24-07-25.13:26:38.584 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.13:26:38.784 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.13:26:39.325 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:26:39.373 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:26:42.802 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.13:26:42.944 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 10.457 seconds (JVM running for 15.498)
+24-07-25.13:29:34.468 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 74467 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.13:29:34.479 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.13:29:37.755 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.13:29:37.761 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.13:29:37.831 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 30 ms. Found 0 Redis repository interfaces.
+24-07-25.13:29:41.972 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.13:29:42.311 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.13:29:42.901 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:29:42.967 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:29:46.610 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.13:29:46.777 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 13.954 seconds (JVM running for 20.175)
+24-07-25.13:33:12.452 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 74514 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.13:33:12.456 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.13:33:14.431 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.13:33:14.439 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.13:33:14.496 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24 ms. Found 0 Redis repository interfaces.
+24-07-25.13:33:16.765 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.13:33:16.893 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.13:33:17.336 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:33:17.401 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:33:20.054 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.13:33:20.160 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 8.756 seconds (JVM running for 12.547)
+24-07-25.13:33:21.155 [main            ] ERROR StrategyArmory         - Rate range for strategy ID 100002 is not positive: -1
+24-07-25.13:33:21.155 [main            ] INFO  StrategyArmoryTest     - 测试结果：null - 奖品ID值
+24-07-25.13:33:21.158 [main            ] ERROR StrategyArmory         - Rate range for strategy ID 100002 is not positive: -1
+24-07-25.13:33:21.159 [main            ] INFO  StrategyArmoryTest     - 测试结果：null - 奖品ID值
+24-07-25.13:33:21.179 [main            ] ERROR StrategyArmory         - Rate range for strategy ID 100002 is not positive: -1
+24-07-25.13:33:21.180 [main            ] INFO  StrategyArmoryTest     - 测试结果：null - 奖品ID值
+24-07-25.13:42:20.687 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 74653 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.13:42:20.691 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.13:42:22.735 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.13:42:22.740 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.13:42:22.793 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 21 ms. Found 0 Redis repository interfaces.
+24-07-25.13:42:24.961 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.13:42:25.200 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.13:42:25.734 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:42:25.787 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:42:28.756 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.13:42:28.850 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 9.449 seconds (JVM running for 12.846)
+24-07-25.13:42:29.855 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-25.13:42:30.533 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-25.13:42:30.816 [main            ] INFO  StrategyArmoryTest     - 测试结果：true - 是否装配成功
+24-07-25.13:42:30.894 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-25.13:42:30.919 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-25.13:43:17.859 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 74670 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.13:43:17.861 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.13:43:19.935 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.13:43:19.940 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.13:43:19.992 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 21 ms. Found 0 Redis repository interfaces.
+24-07-25.13:43:22.479 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.13:43:22.716 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.13:43:23.122 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:43:23.173 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:43:26.164 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.13:43:26.288 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 9.385 seconds (JVM running for 13.237)
+24-07-25.13:43:27.419 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-25.13:43:28.323 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-25.13:43:28.541 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-25.13:43:28.569 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-25.13:51:49.520 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 74787 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.13:51:49.523 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.13:51:51.502 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.13:51:51.507 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.13:51:51.560 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 21 ms. Found 0 Redis repository interfaces.
+24-07-25.13:51:54.141 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.13:51:54.318 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.13:51:54.801 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:51:54.850 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:51:58.481 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.13:51:58.576 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 10.14 seconds (JVM running for 14.211)
+24-07-25.13:51:59.775 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-25.13:52:00.438 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-25.13:52:00.638 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-25.13:52:00.683 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-25.13:52:35.205 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 74806 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.13:52:35.210 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.13:52:37.208 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.13:52:37.215 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.13:52:37.281 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 32 ms. Found 0 Redis repository interfaces.
+24-07-25.13:52:39.434 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.13:52:39.612 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.13:52:40.095 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:52:40.173 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.13:52:43.078 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.13:52:43.172 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 9.015 seconds (JVM running for 12.354)
+24-07-25.13:52:44.237 [main            ] ERROR StrategyArmory         - Rate range for strategy ID 100002 is not positive: -1
+24-07-25.13:52:44.238 [main            ] INFO  StrategyArmoryTest     - 测试结果：null - 奖品ID值
+24-07-25.13:52:44.240 [main            ] ERROR StrategyArmory         - Rate range for strategy ID 100002 is not positive: -1
+24-07-25.13:52:44.241 [main            ] INFO  StrategyArmoryTest     - 测试结果：null - 奖品ID值
+24-07-25.13:52:44.243 [main            ] ERROR StrategyArmory         - Rate range for strategy ID 100002 is not positive: -1
+24-07-25.13:52:44.244 [main            ] INFO  StrategyArmoryTest     - 测试结果：null - 奖品ID值
+24-07-25.14:06:31.021 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 74961 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.14:06:31.023 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.14:06:33.020 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.14:06:33.025 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.14:06:33.083 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 23 ms. Found 0 Redis repository interfaces.
+24-07-25.14:06:35.278 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.14:06:35.417 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.14:06:35.839 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.14:06:35.887 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.14:06:38.654 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.14:06:38.774 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 8.746 seconds (JVM running for 12.345)
+24-07-25.14:06:39.808 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-25.14:06:40.439 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-25.14:06:40.799 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-25.14:06:40.818 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-25.14:09:12.546 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 74997 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.14:09:12.551 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.14:09:16.470 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.14:09:16.477 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.14:09:16.564 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 32 ms. Found 0 Redis repository interfaces.
+24-07-25.14:09:19.470 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.14:09:19.726 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.14:09:20.650 [redisson-netty-1-8] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.14:09:20.705 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.14:09:26.487 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.14:09:26.633 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 15.564 seconds (JVM running for 19.562)
+24-07-25.14:09:28.642 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-25.14:09:29.305 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-25.14:09:29.727 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-25.14:09:29.789 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-25.14:10:16.695 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 75024 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.14:10:16.701 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.14:10:18.734 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.14:10:18.740 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.14:10:18.801 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 26 ms. Found 0 Redis repository interfaces.
+24-07-25.14:10:21.124 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.14:10:21.262 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.14:10:21.757 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.14:10:21.804 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.14:10:24.521 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.14:10:24.619 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 9.51 seconds (JVM running for 12.841)
+24-07-25.14:15:45.842 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 75078 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.14:15:45.845 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.14:15:47.932 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.14:15:47.936 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.14:15:47.986 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 21 ms. Found 0 Redis repository interfaces.
+24-07-25.14:15:50.274 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.14:15:50.410 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.14:15:50.852 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.14:15:50.929 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.14:15:53.670 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.14:15:53.760 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 9.223 seconds (JVM running for 13.39)
+24-07-25.14:19:33.513 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 75134 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.14:19:33.515 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.14:19:35.447 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.14:19:35.453 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.14:19:35.503 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19 ms. Found 0 Redis repository interfaces.
+24-07-25.14:19:37.608 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.14:19:37.736 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.14:19:38.160 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.14:19:38.217 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.14:19:40.789 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.14:19:40.902 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 8.534 seconds (JVM running for 12.333)
+24-07-25.14:32:42.478 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 75303 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.14:32:42.481 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.14:32:46.074 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.14:32:46.079 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.14:32:46.188 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 59 ms. Found 0 Redis repository interfaces.
+24-07-25.14:32:49.253 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.14:32:49.988 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.14:32:50.792 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.14:32:50.926 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.14:32:54.494 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.14:32:54.616 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 13.88 seconds (JVM running for 18.547)
+24-07-25.14:33:53.081 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 75323 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.14:33:53.087 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.14:33:55.299 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.14:33:55.305 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.14:33:55.363 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24 ms. Found 0 Redis repository interfaces.
+24-07-25.14:33:57.539 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.14:33:57.678 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.14:33:58.120 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.14:33:58.184 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.14:34:01.241 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.14:34:01.349 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 9.311 seconds (JVM running for 12.81)
+24-07-25.14:34:49.418 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 75341 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.14:34:49.421 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.14:34:51.825 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.14:34:51.835 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.14:34:51.922 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 41 ms. Found 0 Redis repository interfaces.
+24-07-25.14:34:54.570 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.14:34:54.723 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.14:34:55.305 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.14:34:55.381 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.14:34:58.663 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.14:34:58.903 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 11.117 seconds (JVM running for 17.921)
+24-07-25.14:35:00.733 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-25.14:35:01.460 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-25.14:35:01.820 [main            ] INFO  StrategyArmoryTest     - 测试结果：true - 是否装配成功
+24-07-25.14:35:01.906 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-25.14:35:01.923 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-25.16:45:23.464 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 77202 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.16:45:23.476 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.16:45:26.610 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.16:45:26.625 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.16:45:26.754 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 43 ms. Found 0 Redis repository interfaces.
+24-07-25.16:45:30.775 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.16:45:30.950 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.16:45:31.937 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.16:45:32.045 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.16:45:36.765 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.16:45:36.866 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 15.376 seconds (JVM running for 20.215)
+24-07-25.16:45:38.466 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-25.16:45:39.460 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-25.16:45:41.694 [main            ] INFO  StrategyArmoryTest     - Boolean: true
+24-07-25.16:45:41.756 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-25.16:45:41.772 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-25.16:49:23.837 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 77278 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.16:49:23.840 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.16:49:26.126 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.16:49:26.132 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.16:49:26.200 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 32 ms. Found 0 Redis repository interfaces.
+24-07-25.16:49:28.669 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.16:49:28.814 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.16:49:29.252 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.16:49:29.295 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.16:49:32.110 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.16:49:32.214 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 9.717 seconds (JVM running for 12.798)
+24-07-25.16:49:33.247 [main            ] INFO  StrategyArmoryTest     - 测试结果: 101 - 奖品ID值
+24-07-25.16:49:50.642 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 77284 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.16:49:50.644 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.16:49:52.639 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.16:49:52.644 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.16:49:52.695 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 20 ms. Found 0 Redis repository interfaces.
+24-07-25.16:49:54.801 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.16:49:54.948 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.16:49:55.411 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.16:49:55.465 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.16:49:58.374 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.16:49:58.477 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 9.32 seconds (JVM running for 13.641)
+24-07-25.16:51:52.008 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 77311 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.16:51:52.011 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.16:51:54.308 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.16:51:54.313 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.16:51:54.386 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 33 ms. Found 0 Redis repository interfaces.
+24-07-25.16:51:57.056 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.16:51:57.207 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.16:51:57.970 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.16:51:58.018 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.16:52:01.205 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.16:52:01.296 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 10.511 seconds (JVM running for 14.024)
+24-07-25.16:54:07.755 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 77362 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.16:54:07.758 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.16:54:10.471 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.16:54:10.477 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.16:54:10.533 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25 ms. Found 0 Redis repository interfaces.
+24-07-25.16:54:13.003 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.16:54:13.139 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.16:54:13.564 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.16:54:13.615 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.16:54:16.525 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.16:54:16.716 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 11.266 seconds (JVM running for 15.41)
+24-07-25.16:54:17.812 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-25.16:54:18.447 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-25.16:54:20.232 [main            ] INFO  StrategyArmoryTest     - Boolean: true
+24-07-25.16:54:20.318 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-25.16:54:20.335 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-25.16:54:35.871 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 77371 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.16:54:35.873 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.16:54:37.877 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.16:54:37.882 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.16:54:37.959 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 44 ms. Found 0 Redis repository interfaces.
+24-07-25.16:54:40.346 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.16:54:40.480 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.16:54:41.007 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.16:54:41.077 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.16:54:44.070 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.16:54:44.172 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 9.329 seconds (JVM running for 13.045)
+24-07-25.16:58:35.324 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 77418 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.16:58:35.336 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.16:58:37.530 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.16:58:37.535 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.16:58:37.656 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 73 ms. Found 0 Redis repository interfaces.
+24-07-25.16:58:40.537 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.16:58:40.873 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.16:58:41.519 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.16:58:41.577 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.16:58:44.453 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.16:58:44.562 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 10.997 seconds (JVM running for 15.816)
+24-07-25.16:59:11.999 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 77426 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.16:59:12.011 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.16:59:17.565 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.16:59:17.571 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.16:59:17.641 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 27 ms. Found 0 Redis repository interfaces.
+24-07-25.16:59:21.188 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.16:59:21.386 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.16:59:22.217 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.16:59:22.268 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.16:59:26.454 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.16:59:26.569 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 15.761 seconds (JVM running for 20.836)
+24-07-25.19:48:21.730 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 78490 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.19:48:21.734 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.19:48:24.415 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.19:48:24.427 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.19:48:24.684 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 197 ms. Found 0 Redis repository interfaces.
+24-07-25.19:48:27.800 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.19:48:28.186 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.19:48:28.777 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.19:48:28.848 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.19:48:32.892 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.19:48:33.228 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 13.537 seconds (JVM running for 18.939)
+24-07-25.19:48:35.222 [main            ] INFO  StrategyArmoryTest     - 测试结果: 103 - 奖品ID值
+24-07-25.19:49:27.108 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 78509 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.19:49:27.112 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.19:49:30.107 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.19:49:30.113 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.19:49:30.212 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 56 ms. Found 0 Redis repository interfaces.
+24-07-25.19:49:33.245 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.19:49:33.521 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.19:49:34.057 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.19:49:34.135 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.19:49:38.319 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.19:49:38.432 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 14.048 seconds (JVM running for 20.692)
+24-07-25.19:58:45.191 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 78624 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.19:58:45.194 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.19:58:47.639 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.19:58:47.644 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.19:58:47.709 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 32 ms. Found 0 Redis repository interfaces.
+24-07-25.19:58:50.313 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.19:58:50.468 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.19:58:51.053 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.19:58:51.118 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.19:58:54.334 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.19:58:54.454 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 10.608 seconds (JVM running for 15.856)
+24-07-25.20:02:20.932 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 78667 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.20:02:20.936 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.20:02:24.409 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.20:02:24.415 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.20:02:24.484 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 31 ms. Found 0 Redis repository interfaces.
+24-07-25.20:02:26.986 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.20:02:27.151 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.20:02:27.691 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.20:02:27.757 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.20:02:30.854 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.20:02:30.999 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 12.933 seconds (JVM running for 19.918)
+24-07-25.20:06:05.108 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 78718 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.20:06:05.112 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.20:06:08.309 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.20:06:08.316 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.20:06:08.383 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 28 ms. Found 0 Redis repository interfaces.
+24-07-25.20:06:11.233 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.20:06:11.449 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.20:06:11.984 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.20:06:12.060 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.20:06:15.397 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.20:06:15.536 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 12.076 seconds (JVM running for 16.754)
+24-07-25.20:10:45.574 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 78776 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.20:10:45.580 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.20:10:47.683 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.20:10:47.688 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.20:10:47.740 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24 ms. Found 0 Redis repository interfaces.
+24-07-25.20:10:50.269 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.20:10:50.479 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.20:10:50.888 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:6379
+24-07-25.20:10:50.974 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:6379
+24-07-25.20:10:53.885 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.20:10:53.987 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 9.58 seconds (JVM running for 13.659)
+24-07-25.20:10:55.041 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-25.20:10:56.016 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-25.20:10:57.643 [main            ] INFO  StrategyArmoryTest     - Boolean: true
+24-07-25.20:10:57.713 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-25.20:10:57.729 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-25.20:11:36.293 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 78814 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.20:11:36.295 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.20:11:38.261 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.20:11:38.265 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.20:11:38.320 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 23 ms. Found 0 Redis repository interfaces.
+24-07-25.20:11:40.633 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.20:11:40.763 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.20:11:41.237 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:6379
+24-07-25.20:11:41.281 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:6379
+24-07-25.20:11:44.306 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.20:11:44.407 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 9.497 seconds (JVM running for 14.647)
+24-07-25.20:36:53.023 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 79104 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.20:36:53.025 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.20:36:56.052 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.20:36:56.058 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.20:36:56.116 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 23 ms. Found 0 Redis repository interfaces.
+24-07-25.20:36:58.551 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.20:36:58.687 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.20:36:59.184 [redisson-netty-1-6] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.20:36:59.241 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.20:37:01.962 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.20:37:02.059 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 10.94 seconds (JVM running for 17.042)
+24-07-25.20:37:36.299 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 79127 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.20:37:36.303 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.20:37:39.196 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.20:37:39.210 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.20:37:39.372 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 106 ms. Found 0 Redis repository interfaces.
+24-07-25.20:37:42.405 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.20:37:42.561 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.20:37:42.979 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.20:37:43.070 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.20:37:45.964 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.20:37:46.092 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 11.089 seconds (JVM running for 14.462)
+24-07-25.20:37:47.415 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-07-25.20:37:48.143 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-07-25.20:37:49.996 [main            ] INFO  StrategyArmoryTest     - Boolean: true
+24-07-25.20:37:50.089 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-07-25.20:37:50.102 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-07-25.20:38:02.942 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 79135 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.20:38:02.946 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.20:38:04.955 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.20:38:04.961 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.20:38:05.019 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 27 ms. Found 0 Redis repository interfaces.
+24-07-25.20:38:07.233 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.20:38:07.356 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.20:38:07.777 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.20:38:07.823 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.20:38:10.644 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.20:38:10.738 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 8.945 seconds (JVM running for 12.232)
+24-07-25.20:38:47.767 [main            ] INFO  StrategyArmoryTest     - Starting StrategyArmoryTest using Java 17.0.11 on 192.168.10.104 with PID 79143 (started by caicai in /Users/caicai/Documents/idea 项目/big-market02/big-market02-app)
+24-07-25.20:38:47.770 [main            ] INFO  StrategyArmoryTest     - The following 1 profile is active: "dev"
+24-07-25.20:38:50.328 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-07-25.20:38:50.333 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-07-25.20:38:50.391 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 26 ms. Found 0 Redis repository interfaces.
+24-07-25.20:38:53.035 [main            ] INFO  Version                - Redisson 3.26.0
+24-07-25.20:38:53.186 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-07-25.20:38:53.719 [redisson-netty-1-6] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.20:38:53.783 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-07-25.20:38:57.013 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-07-25.20:38:57.152 [main            ] INFO  StrategyArmoryTest     - Started StrategyArmoryTest in 10.613 seconds (JVM running for 15.506)
